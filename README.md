@@ -1,3 +1,2 @@
 # .github
-Default Community Health Files for the Fastchannel organization on GitHub
-
+Arquivos Padrões de Diretrizes e Boas Práticas da Comunidade para a Organização Fastchannel no GitHub
