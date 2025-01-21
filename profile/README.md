@@ -11,4 +11,8 @@ Visite [fastchannel.com](https://www.fastchannel.com) para saber mais sobre nós!
 
 ----
 
-Os projetos da Fastchannel adotam o [Código de Conduta Open Source da Microsoft](https://opensource.microsoft.com/codeofconduct/). Para mais informações, veja o [FAQ do Código de Conduta](https://opensource.microsoft.com/codeofconduct/faq/).
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
+
+Os projetos da Fastchannel adotam o Código de Conduta [Contributor Covenant 2.1](CODE_OF_CONDUCT.md).
+
+Para mais informações, veja o [FAQ do Código de Conduta](https://www.contributor-covenant.org/faq).
