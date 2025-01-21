@@ -1,2 +1,2 @@
 # .github
-A Plataforma B2B completa para grandes indústrias e distribuidores
+Default Community Health Files for the Fastchannel organization on GitHub
