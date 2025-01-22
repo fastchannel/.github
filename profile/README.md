@@ -1,4 +1,4 @@
-![Secure at Fastchannel](https://github.com/fastchannel/.github/blob/main/images/secure-at-fastchannel.png) 
+![Secure at Fastchannel](https://cdn.jsdelivr.net/gh/fastchannel/.github/images/secure-at-fastchannel.png) 
 
 ## Faça Parte
 
